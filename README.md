@@ -1,7 +1,7 @@
 Python Wordle Clone
 
 This repository houses a Python-based clone of the popular word game Wordle.
-Designed to run in the terminal, the project offers a compelling text-based experience,
+The project offers a compelling text-based experience,
 allowing players to guess a secret word within a limited number of attempts. Features include:
 
 Interactive Guessing: Users input their guesses and receive instant feedback on the accuracy of each letter in relation to the secret word.
